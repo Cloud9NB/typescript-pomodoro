@@ -1,5 +1,3 @@
-import React from 'react';
-
 interface prop {
   reset: (e: React.FormEvent) => void;
 }
